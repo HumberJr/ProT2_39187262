@@ -1,0 +1,20 @@
+/* * {
+    background-color: rgb(47, 113, 160);
+} */
+
+h1 {
+   background-color: rgb(115, 204, 186); 
+   text-align: center;
+}
+.primer_parrafo {
+    background-color: rgb(109, 176, 155);
+}
+
+.footer {
+    background-color: rgb(115, 204, 186); 
+    padding: 10px;
+}
+
+.cont_impyval {
+    background-image: url("assets/img/fondo.jpeg");
+}
